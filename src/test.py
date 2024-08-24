@@ -36,7 +36,7 @@ def main():
                            color=np.array([255, 255, 0]),
                            alpha=0.1,
                            edge_width=0.02)
-    v.save('../site')
+    v.save('../')
 
 
 if __name__ == '__main__':
